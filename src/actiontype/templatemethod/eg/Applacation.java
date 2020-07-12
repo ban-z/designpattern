@@ -1,4 +1,4 @@
-package actiontype.templateMethod.eg;
+package actiontype.templatemethod.eg;
 
 // 应用程序开发人员
 public class Applacation {

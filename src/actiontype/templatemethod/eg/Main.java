@@ -1,4 +1,4 @@
-package actiontype.templateMethod.eg;
+package actiontype.templatemethod.eg;
 
 public class Main {
 

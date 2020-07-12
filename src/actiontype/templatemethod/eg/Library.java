@@ -1,4 +1,4 @@
-package actiontype.templateMethod.eg;
+package actiontype.templatemethod.eg;
 
 // 程序库开发人员
 public class Library {
